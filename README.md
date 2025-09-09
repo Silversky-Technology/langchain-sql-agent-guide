@@ -83,11 +83,11 @@ JOIN authors a ON b.author_id = a.id;
 6.  **Install dependencies** in the virtual environment:
    
    ```bash
-pip install fastapi uvicorn langchain-openai langchain-community sqlalchemy psycopg2-binary langchain-postgres asyncio
-```
+    pip install fastapi uvicorn langchain-openai langchain-community sqlalchemy psycopg2-binary langchain-postgres asyncio
+   ```
     
     
-8.  **Run the application**:
+7.  **Run the application**:
     
     
     ```bash
