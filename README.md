@@ -1,4 +1,4 @@
-# langchain-sql-agent-guide
+# LangChain SQL Agent Demo
 A guide to building a question-answer chatbot with LangChain and PostgreSQL with session memory
 
 ## Prerequisites
