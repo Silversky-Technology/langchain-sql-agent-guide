@@ -63,7 +63,7 @@ JOIN authors a ON b.author_id = a.id;
 ## Setup Steps
 
 1.  **Create your database**
-2.  **Clone the project** with `https://github.com/[your-repo-url]`
+2.  **Clone the project** with `https://github.com/Silversky-Technology/langchain-sql-agent-guide.git`
 3.  **Configure credentials** - Replace OpenAI API key and your database credentials
 4.  **Set up virtual environment** - In your project folder terminal, run:
     
